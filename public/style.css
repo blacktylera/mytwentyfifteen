@@ -1,0 +1,36 @@
+h1 {
+	color: blue;
+}
+
+.main {
+	background-color: #F1F1F1;
+}
+
+.footer {
+	background-color: #F7F7F7;
+}
+
+.post {
+	background-color: #FFF;
+}
+
+ul {
+	text-align: center;
+	margin-top: 20px;
+	padding: 30px;
+}
+
+li {
+	list-style-type: none;
+	display: inline;
+	padding: 10px 20px 10px 20px;
+
+}
+
+.post_head-img {
+	background-image: url("http://i.imgur.com/X75DGFa.gif");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: 0 50%;
+	height: 400px;
+}
